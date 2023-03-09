@@ -1,0 +1,145 @@
+body {
+    margin:0px;
+    padding:0px;
+    }
+    .header {
+    text-align:left;
+    background-color:#214555;
+    }
+    .head-inner {
+    margin:0px auto 0px auto;
+    padding:10px 0px 0px 0px;
+    width:694px;
+    background-color:#214555;
+    padding:25px;
+    }
+    .description {
+    padding-left:10px;
+    line-height:140%;
+    color:#ffffff;
+    }
+    .side{
+      float:left;
+      width:18%;
+      height:100vh;
+    }
+    .side-title {
+      padding:4px 10px 4px 10px;
+      background-color:#f1f1f1;
+      font-weight:bold;
+      border:1px solid #999999;
+      margin-bottom:10px;
+      }
+      .side-contents {
+      margin:0px 0px 10px 0px;
+      padding:2px 8px 8px 7px;
+      line-height:150%;
+      }
+      ul {
+      margin: 0 0 0 1em;
+      padding: 0;
+      }
+      li {
+      list-style:disk; 
+      }
+      
+    .contents {
+    margin:0px auto 0px auto;
+    padding:30px 0px 0px 0px;
+    text-align:center;
+    width:82%;
+    color:#333333;
+    font-size:14px;
+    
+    }
+    .contents-left{
+      width:50%;
+      float:left;
+      text-align: center;
+    }
+    .face-photo {
+      width: 100%;
+      height: 414px;
+      margin-bottom: 23px;
+    }
+    .profile {
+      margin-bottom: 40px;
+      margin-left: 20px;
+    }
+    .profile-english {
+      margin-bottom: 20px;
+    }
+    .mail {
+      margin-bottom: 20px;
+    }
+    .contents-right{
+    }
+    .news-list-content{
+      text-align: left;
+    }
+    .news-heading {
+      margin-bottom: 30px;
+      text-align: center;
+      font-size: 16px;
+      font-weight: normal;
+    }
+    .news-list {
+      margin-right: 10px;
+      margin-left: 10px;
+    }
+    .news-list-title {
+      margin-top: 5px;
+      margin-bottom: 4px;
+    }
+    .news-list-description {
+      margin-bottom: 30px;
+      margin-left: 80px;
+    }
+    ul {
+    margin: 0 0 0 1em;
+    padding: 0;
+    }
+    li {
+    list-style:disk; 
+    }
+
+    img{
+    border:0px;
+    }
+
+    a{
+    font-weight:normal;
+    }
+    h1 {
+    font-size:24px;
+    font-weight:bold;
+    text-align:left;
+    color:#ffffff;
+    }
+    h1 a{
+    font-weight:bold;
+    color:#ffffff;
+    text-decoration:none;
+    }
+    h1 a:hover{
+    font-weight:bold;
+    color:#ffffff;
+    text-decoration:underline;
+    }
+    h2 {
+    /*border-bottom:2px solid #999999;*/
+    }
+    .green {
+    color:#008800;
+    font-weight:bold;
+    }
+
+    
+    .footer {
+    font-size:12px;
+    height:100px;
+    clear:left;
+    text-align:center;
+    }
+    
+    
