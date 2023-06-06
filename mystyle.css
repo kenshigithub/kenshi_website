@@ -1,27 +1,30 @@
-p{}
-
 body {
-
+background-color: #fffcbd;
 }
 
-h1{}
+h1{color:#ff6666;}
 
-h3{}
+h3{border-bottom:double 5px #ffd778;}
 
 header{
-
+ background:#ffcccc;
+ height:50px;
 }
 
 .main {
-
+  background-image: url("川沿いの桜.jpg");
+  background-size:2000px;
+  height:800px;
 }
 
-table{}
+table{border-collapse: collapse;} 
 
 th,td{
-
+ border:solid 1px;
+ padding:10px;
 }
 
 footer {
-
+  background-color: #f1f1f1;
+  padding: 20px;
 }
